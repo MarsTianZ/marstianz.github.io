@@ -1,0 +1,126 @@
+1. Organizational experience + Documentation1. Beranda (nama, foto profil, navbar horizontal, about me, Organizational experience + Documentation, Contact US(Gmail, Linkedin, tiktok, IG), interactive maps)
+
+2. Background (Education, Experience(work and internship), Skills(Hard skill, Soft skill, Language) Tools(Computer Programming, Office. Design))
+
+3. Projects (Thesis, Internship, Javanese Conversation Learning app, Implementing and Configuring Multi-Router Topology, Selinux Enforcer Module, my logo design, AM food Poster, caricature of me made from AI)
+
+4. Certificates
+
+
+text-3xl md:text-5xl font-bold text-white mb-12 border-b-2 border-gray-800 pb-4 text-center w-full
+text-3xl md:text-4xl font-bold text-white mb-8 border-b-2 border-gray-800 pb-4
+
+Campus Webinar
+Information System National Webinar Series 2023
+“Canva vs Figma What's the Right Choice?”
+
+Campus Webinar
+Information System National Webinar Series 2023
+“Mengelola Data Mining Lebih Mudah Menggunakan Aplikasi Orange”
+
+Campus Webinar
+Information System National Webinar Series 2023
+“Jurus Jitu Mengantisipasi Tipuan dengan Modus Social Engineering”
+
+Campus Webinar
+Information System National Webinar Series 2024
+“Optimizing Software Quality: Strategies, Techniques, and Best Practices in Testing”
+
+Campus Webinar
+Webinar Series Inspiring Young Minds
+“Langkah Awal Menuju Sukses di Dunia Bisnis"
+
+Thesis Workshop
+EDUCIETY
+“Rahasia Menulis Skripsi Secara Cepat dan Efektif”
+
+Campus Webinar
+Information System National Webinar Series 2024
+“Membangun Kerangka Kerja Manajemen Proyek yang Efektif: Tips dan Strategi Terbaik”
+
+
+Campus Webinar
+Information System National Webinar Series 2024
+“Pengenalan Logika Pemrograman yang Menyenangkan”
+
+
+Campus Webinar
+Information System National Webinar Series 2024
+“Thinking Before Coding”
+
+CERTIFICATE OF APPRECIATION
+Rumahweb Indonesia
+“Tongkrongan Warga RW: Ngobrolin Fitur Update Rumahweb 2024”
+
+CERTIFICATE OF APPRECIATION
+Edupact
+Edupact IELTS Webinar
+
+Certificate of Participation
+National Webinar
+“Menginspirasi Anak Bangsa Guna Menemukan Seni Menulis”
+
+Certificate of Participation
+National Webinar
+“Meningkatkan Pengelolaan Sumber Daya Manusia yang Berkualitas dan Cerdas”
+
+Certificate of Participation
+Christian Singing Contest (CSC)
+“Sing the Faith”
+
+Campus Webinar
+Webinar Digital Accounting
+“Penerapan Digital Accounting pada Dunia Bisnis di Era Revolusi Industri 4.0”
+
+IMSII JOGOSTAFF
+IMSII
+“Pelatihan Web Development Fundamental & Skill Leadership”
+
+Campus Webinar
+Student Executive Board of Dinamika University
+“Aku Bisa Menjadi Leader”
+
+Campus Webinar 
+Student Executive Board of Dinamika University
+“Anti Bokek”
+
+Campus Webinar 
+LUG x KLAS Network Security Webinar
+“Membangun Karir di Bidang Cyber Security”
+
+
+National Webinar on Human Rights Enforcement 
+Student Council of Dinamika University
+“Urgensi Penegakan HAM dalam Mewujudkan Keadilan di Indonesia”
+
+
+
+“”
+“”
+“”
+
+“”
+“”
+“”
+“”
+“”
+
+“”
+
+
+
+“”
+
+Berikut adalah peran masing-masing teknologi tersebut 
+dalam satu aplikasi:
+
+Node.js (Server/Mesin): Motor 
+utama yang menjalankan seluruh program di komputer/server 
+Anda.
+Express.js (Supir/Framework): Mengatur rute URL halaman 
+web Anda dan menjembatani data.
+MongoDB (Gudang Data): Tempat menyimpan data mentah 
+(seperti data user, produk, atau artikel) dalam format JSON.
+EJS (Embedded JavaScript)(Tampilan/HTML): Template HTML khusus yang bertugas 
+menerima data dari MongoDB (lewat Node.js), 
+lalu menampilkannya menjadi halaman web yang rapi.
