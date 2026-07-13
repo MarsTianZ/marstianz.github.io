@@ -122,9 +122,9 @@ export default function Home({ setPreviewData }) {
           <div className="w-full bg-gray-900/50 p-6 md:p-10 rounded-2xl animate-fade-in backdrop-blur-sm relative z-10 text-justify">
             <p className="text-gray-100 leading-relaxed text-xl font-medium ">
               Hello! I'm an Information Systems student awaiting my formal
-              graduation in August 2026 with a strong interest in technology.
-              My interests range from user experience (UI/UX) design to the
-              technical aspects of operating systems. I’m always up for the
+              graduation in August 2026. I have a deep interest in technology,
+              with skills ranging from user experience (UI/UX) design to the
+              technical depths of operating systems. I’m always up for the
               challenge of meeting user needs with functional digital solutions.
               <br />
               <br />
