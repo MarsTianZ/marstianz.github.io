@@ -146,9 +146,10 @@ export default function Home({ setPreviewData }) {
               default.
               <br />
               <br />
-              I was also active in the BEM Media Kominfo, where I learned about
-              teamwork and visual communication, and I interned at CV. Karya
-              Cipta Membangun to gain hands-on experience in website-based
+              I was also active in my department’s student association (HIMA) as
+              part of the Media and Communications division, where I learned
+              about teamwork and visual communication, and I interned at CV.
+              Karya Cipta Membangun to gain hands-on experience in website-based
               digital marketing.
               <br />
               <br />
