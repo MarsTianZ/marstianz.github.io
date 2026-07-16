@@ -138,9 +138,9 @@ export default function Home({ setPreviewData }) {
               <br />
               Outside of school, I work as a freelance IT support specialist.
               Building PCs, fixing Windows errors, and customizing the Xubuntu
-              interface—these have all become routines I enjoy. What others
+              interface, these have all become routines I enjoy. What others
               might find a bit unusual is my Android expertise, since I’ve
-              delved deeply into rooting and system modifications—even going so
+              delved deeply into rooting and system modifications, even going so
               far as to create my own root module, the SELinux Enforcer Module,
               for custom Android ROMs where SELinux is set to “Permissive” by
               default.
