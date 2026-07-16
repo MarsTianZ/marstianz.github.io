@@ -121,42 +121,40 @@ export default function Home({ setPreviewData }) {
         >
           <div className="w-full bg-gray-900/50 p-6 md:p-10 rounded-2xl animate-fade-in backdrop-blur-sm relative z-10 text-justify">
             <p className="text-gray-100 leading-relaxed text-xl font-medium ">
-              Hello! I'm an Information Systems student awaiting my formal
-              graduation in August 2026. I have a deep interest in technology,
-              with skills ranging from user experience (UI/UX) design to the
-              technical depths of operating systems. I’m always up for the
-              challenge of meeting user needs with functional digital solutions.
+              Hi! I’m an Information Systems student, and I’m just waiting for
+              my graduation in August 2026. My interests in technology are quite
+              broad, but if you ask me where I feel most at home, there are two
+              areas: UI/UX design and the technical aspects of operating systems
+              that other people usually don’t want to mess with.
               <br />
               <br />
-              My primary focus is UI/UX design and web development. I solve
-              problems using a design thinking approach. For example, I
-              successfully applied this method to my thesis project, designing
-              the UI/UX for a web-based fertilizer distribution app. I’ve also
-              designed a prototype for a Javanese language conversation app and
-              built my own personal portfolio website using GitHub Pages.
+              Professionally, I focus more on UI/UX and web development, usually
+              through a design thinking approach. I used this method for my
+              thesis, designing the UI/UX for a web-based fertilizer
+              distribution app. Previously, I also built a prototype for a
+              Javanese language chat app, and I built this personal portfolio
+              myself using GitHub Pages.
               <br />
               <br />
-              Outside of academics, I am active as a freelance IT support
-              specialist. Customizing hardware and operating systems comes
-              naturally to me. I have experience building PCs, troubleshooting
-              Windows, and performing in-depth customizations to the Xubuntu OS
-              user interface. I don't just work with PCs; I've also delved into
-              advanced Android modding. This includes rooting, system
-              modifications, and creating my own custom root module,
-              specifically the SELinux Enforcer Module, for Android custom ROMs
-              that have SELinux set to Permissive by default.
+              Outside of school, I work as a freelance IT support specialist.
+              Building PCs, fixing Windows errors, and customizing the Xubuntu
+              interface—these have all become routines I enjoy. What others
+              might find a bit unusual is my Android expertise, since I’ve
+              delved deeply into rooting and system modifications—even going so
+              far as to create my own root module, the SELinux Enforcer Module,
+              for custom Android ROMs where SELinux is set to “Permissive” by
+              default.
               <br />
               <br />
-              I honed my teamwork and visual communication skills as a member of
-              the Media Kominfo organization in the Student Association and
-              applied my knowledge of website-based digital marketing directly
-              in the industry through an internship program at CV. Karya Cipta
-              Membangun.
+              I was also active in the BEM Media Kominfo, where I learned about
+              teamwork and visual communication, and I interned at CV. Karya
+              Cipta Membangun to gain hands-on experience in website-based
+              digital marketing.
               <br />
               <br />
-              With my design skills, in-depth system understanding, and solid
-              practical experience gained during my studies, I am ready to
-              contribute fully to challenging professional technology projects.
+              It’s this combination of design skills, a fairly deep
+              understanding of systems, and practical experience that I bring to
+              the table when I want to dive into serious technology projects.
             </p>
           </div>
         </BorderGlow>
