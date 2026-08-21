@@ -121,41 +121,39 @@ export default function Home({ setPreviewData }) {
         >
           <div className="w-full bg-gray-900/50 p-6 md:p-10 rounded-2xl animate-fade-in backdrop-blur-sm relative z-10 text-justify">
             <p className="text-gray-100 leading-relaxed text-xl font-medium ">
-              Hi! I’m an Information Systems student, and I’m just waiting for
-              my graduation in August 2026. My interests in technology are quite
-              broad, but if you ask me where I feel most at home, there are two
-              areas: UI/UX design and the technical aspects of operating systems
-              that other people usually don’t want to mess with.
+              Hi, I’m a recent Information Systems graduate who bridges the gap
+              between intuitive UI/UX design, frontend development, and hardcore
+              system troubleshooting.
               <br />
               <br />
-              Professionally, I focus more on UI/UX and web development, usually
-              through a design thinking approach. I used this method for my
-              thesis, designing the UI/UX for a web-based fertilizer
-              distribution app. Previously, I also built a prototype for a
-              Javanese language chat app, and I built this personal portfolio
-              myself using GitHub Pages.
+              On the product side, I craft user-centered solutions using the
+              Design Thinking approach. During my studies, I designed the UI/UX
+              for a web-based fertilizer distribution system for my thesis and
+              built an interactive Javanese-language chat prototype. To bring
+              designs to life, I also actively code recently building and
+              deploying a real-world transaction admin dashboard for AV Store, a
+              local plastic retail MSME. Built with modern stacks like React,
+              Tailwind CSS, and shadcn/ui, I am currently preparing this
+              repository as an open-source project.
               <br />
               <br />
-              Outside of school, I work as a freelance IT support specialist.
-              Building PCs, fixing Windows errors, and customizing the Xubuntu
-              interface, these have all become routines I enjoy. What others
-              might find a bit unusual is my Android expertise, since I’ve
-              delved deeply into rooting and system modifications, even going so
-              far as to create my own root module, the SELinux Enforcer Module,
-              for custom Android ROMs where SELinux is set to “Permissive” by
-              default.
+              Additionally, I gained hands-on digital marketing experience
+              during my internship at CV. Karya Cipta Membangun, and honed my
+              visual communication skills as part of the HIMA MedKominfo
+              division.
               <br />
               <br />
-              I was also active in my department’s student association (HIMA) as
-              part of the Media and Communications division, where I learned
-              about teamwork and visual communication, and I interned at CV.
-              Karya Cipta Membangun to gain hands-on experience in website-based
-              digital marketing.
+              Beyond design and development, I am a highly technical IT
+              specialist and system tinkerer. As a freelance IT support,
+              building PCs, troubleshooting Windows, and customizing Xubuntu
+              environments are my daily routine. My curiosity also extends to
+              advanced Android modding. I even developed my own root
+              modification, the SELinux Enforcer Module.
               <br />
               <br />
-              It’s this combination of design skills, a fairly deep
-              understanding of systems, and practical experience that I bring to
-              the table when I want to dive into serious technology projects.
+              Ultimately, I bring a unique blend of creative design, modern web
+              development, and raw technical execution to every project I
+              tackle.
             </p>
           </div>
         </BorderGlow>

@@ -68,10 +68,11 @@ export default function Background() {
                 </h3>
                 <p className="text-[#00bcff] font-medium mb-4">Present</p>
                 <p className="text-gray-300 leading-relaxed text-justify">
-                  Handling hardware customization, PC building, and Windows
-                  troubleshooting. Performing advanced Android modding (rooting,
-                  KernelSU, Magisk, custom ROMs) and in-depth Linux (Xubuntu) OS
-                  UI customizations.
+                  Successfully handled hardware customization, PC assembly, and
+                  Windows troubleshooting. Successfully performed advanced
+                  Android modifications (rooting, KernelSU, Magisk, custom ROMs)
+                  as well as in-depth customization of the user interface (UI)
+                  for the Linux operating system (Xubuntu).
                 </p>
               </div>
             </BorderGlow>
@@ -93,12 +94,13 @@ export default function Background() {
                   Bachelor's Degree (S1) - Information Systems | 2026
                 </p>
                 <p className="text-gray-300 leading-relaxed text-justify">
-                  Designed an Elderly-Friendly UI/UX for a web-based fertilizer
-                  distribution app using the Design Thinking method. The design
-                  digitized manual recording processes for 30 partner kiosks,
-                  achieving a perfect 100% success rate in usability testing
-                  (Maze) and an "Excellent" (Grade A) System Usability Scale
-                  (SUS) score of 97.5.
+                  Successfully designed an elderly-friendly user interface (UI)
+                  and user experience (UX) for a web-based fertilizer
+                  distribution application using the Design Thinking method.
+                  This design digitized the manual record-keeping process at 30
+                  partner kiosks, achieving a 100% success rate in usability
+                  testing (Maze) and a “Very Good” (Grade A) score of 97.5 on
+                  the System Usability Scale (SUS).
                 </p>
               </div>
             </BorderGlow>
@@ -120,11 +122,12 @@ export default function Background() {
                   CV. Karya Cipta Membangun | 2025
                 </p>
                 <p className="text-gray-300 leading-relaxed text-justify">
-                  Implemented a digital marketing strategy for a regional
-                  fertilizer distributor. Developed an SEO-optimized WordPress
-                  website and integrated Google Business Profile, significantly
-                  improving online visibility, expanding market reach, and
-                  streamlining the kiosk ordering process.
+                  Successfully implemented a digital marketing strategy for a
+                  regional fertilizer distributor. Successfully developed an
+                  SEO-optimized WordPress website and integrated it with Google
+                  Business Profile, thereby significantly increasing online
+                  visibility, expanding market reach, and streamlining the
+                  ordering process through the kiosk.
                 </p>
               </div>
             </BorderGlow>
@@ -147,13 +150,13 @@ export default function Background() {
                 </p>
                 <p className="text-gray-300 leading-relaxed text-justify">
                   Took the initiative to gain practical work experience by
-                  joining a collaborative warehouse team. Handled the packing
-                  operations for three distinct brands: Toko Moteza Indonesia
-                  (apparel), PT Bisatani Sukses Utama (liquid fertilizers), and
-                  PT Naturalva Herba Indonesia (herbal products). Additionally
-                  served as the warehouse administrator responsible for
-                  inventory data entry, printing shipping labels, and conducting
-                  regular stock opname specifically for Moteza.
+                  joining a collaborative warehouse team. Managed packaging
+                  operations for three different brands: Toko Moteza Indonesia
+                  (clothing), PT Bisatani Sukses Utama (liquid fertilizer), and
+                  PT Naturalva Herba Indonesia (herbal products). Additionally,
+                  successfully served as a warehouse administrator responsible
+                  for inventory data recording, printing shipping labels, and
+                  conducting routine stock counts specifically for Moteza.
                 </p>
               </div>
             </BorderGlow>
