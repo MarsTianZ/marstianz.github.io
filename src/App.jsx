@@ -10,6 +10,7 @@ import {
 import { Home as HomeIcon, User, FolderOpen, Award } from "lucide-react";
 
 // Import  Komponen UI
+import BottomNav from "./components/BottomNav";
 import DotGrid from "./components/DotGrid";
 import GooeyNav from "./components/GooeyNav";
 import Dock from "./components/Dock";
@@ -114,7 +115,7 @@ function AppContent() {
         </div>
 
         {/*Area Router Halaman*/}
-        <div className="mt-8 md:mt-32 w-full max-w-7xl px-4">
+        <div className=" mt-8 md:mt-32 w-full max-w-7xl px-4">
           <Routes>
             <Route
               path="/"
@@ -272,8 +273,10 @@ function AppContent() {
       )}
 
       {/* Navbar Mobile */}
+
       <div className="md:hidden fixed bottom-10 left-0 right-0 w-full flex justify-center mx-auto z-50">
-        <Dock items={dockItems} />
+        <BottomNav items={dockItems} activeIndex={activeIndex} />
+        {/* <Dock items={dockItems} /> */}
       </div>
     </div>
   );

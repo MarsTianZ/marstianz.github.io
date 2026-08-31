@@ -25,7 +25,9 @@ export default function Background() {
                   Bachelor of Information Systems | Faculty of Technology and
                   Informatics
                 </p>
-                <p className="text-gray-400 text-sm">2021 - 2026</p>
+                <p className="text-gray-400 text-sm">
+                  August 2021 - August 2026
+                </p>
               </div>
             </BorderGlow>
           </div>
@@ -42,7 +44,7 @@ export default function Background() {
                   Karitas 3 Catholic Senior High School
                 </h3>
                 <p className="text-[#00bcff] font-medium mb-1">Science Major</p>
-                <p className="text-gray-400 text-sm">2018 - 2021</p>
+                <p className="text-gray-400 text-sm">July 2018 - June 2021</p>
               </div>
             </BorderGlow>
           </div>
@@ -207,14 +209,15 @@ export default function Background() {
                 Hard Skills
               </h3>
               <ul className="space-y-2 text-gray-300">
-                <li>• Operating System (Windows, Ubuntu, Xubuntu)</li>
-                <li>• Microsoft Office (Word, PowerPoint, Excel)</li>
-                <li>• Web Server (XAMPP, Laragon)</li>
-                <li>• Database (MySQL, MongoDB)</li>
-                <li>• CSS (Bootstrap)</li>
-                <li>• JavaScript (Node.js, React.js, Vue.js)</li>
-                <li>• Design (Canva, CapCut, Vegas Pro)</li>
-                <li>• Gemini AI</li>
+                <li>
+                  • IT Support & Hardware (PC assembly, hardware tuning, and
+                  comprehensive Windows troubleshooting.)
+                </li>
+                <li>
+                  • OS Customization (Advanced Android modding [Root, Custom
+                  ROMs, Module Development] and Xubuntu Linux UI tweaks)
+                </li>
+
               </ul>
             </div>
           </BorderGlow>

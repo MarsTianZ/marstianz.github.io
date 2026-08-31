@@ -3,6 +3,7 @@ import BorderGlow from "../components/BorderGlow";
 import BounceCards from "../components/BounceCard";
 import fotoProfil from "../assets/profil.webp";
 
+
 //export dari app.jsx
 export default function Home({ setPreviewData }) {
   //Data bahan Home Page
