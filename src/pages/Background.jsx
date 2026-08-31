@@ -197,73 +197,67 @@ export default function Background() {
         <h2 className="text-3xl md:text-4xl font-bold text-white mb-8 border-b-2 border-gray-800 pb-4">
           Professional <span className="text-[#00bcff]">Skills</span>
         </h2>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-2 md:grid-cols-1 gap-8">
           <BorderGlow
             glowColor="#00bcff"
             glowSize={100}
             duration={5}
             borderRadius={16}
           >
-            <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm h-full w-full">
-              <h3 className="text-xl font-bold text-[#00bcff] mb-4">
-                Hard Skills
-              </h3>
-              <ul className="space-y-2 text-gray-300">
-                <li>
-                  • IT Support & Hardware (PC assembly, hardware tuning, and
-                  comprehensive Windows troubleshooting.)
-                </li>
-                <li>
-                  • OS Customization (Advanced Android modding [Root, Custom
-                  ROMs, Module Development] and Xubuntu Linux UI tweaks)
-                </li>
+            <div className="flex flex-col gap-8">
+              <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm ">
+                <h3 className="text-xl font-bold text-[#00bcff] mb-4">
+                  Hard Skills
+                </h3>
+                <ul className="space-y-2 text-gray-300">
+                  <li>
+                    • <b>IT Support & Hardware</b> (PC assembly, hardware
+                    tuning, and comprehensive Windows troubleshooting.)
+                  </li>
+                  <li>
+                    • <b>OS Customization</b> (Advanced Android modding [Root,
+                    Custom ROMs, Module Development] and Xubuntu Linux UI
+                    tweaks)
+                  </li>
+                  <li>
+                    • <b>Frontend Development</b> (Modern web interfaces using
+                    React, Tailwind CSS, shadcn/ui, and GitHub deployment.)
+                  </li>
+                  <li>
+                    • <b>UI/UX Design</b> (Design Thinking, User Flow mapping,
+                    and interactive prototyping.)
+                  </li>
+                  <li>
+                    • <b>Digital Marketing</b> (Website-based marketing
+                    strategies and implementation.)
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </BorderGlow>
 
-              </ul>
-            </div>
-          </BorderGlow>
-          <BorderGlow
-            glowColor="#00bcff"
-            glowSize={100}
-            duration={5}
-            borderRadius={16}
-          >
-            <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm h-full w-full">
-              <h3 className="text-xl font-bold text-[#00bcff] mb-4">
-                Soft Skills
-              </h3>
-              <ul className="space-y-2 text-gray-300">
-                <li>• Time Management</li>
-                <li>• Teamwork & Collaboration</li>
-                <li>• Thrives on Challenges</li>
-                <li>• Fast Learner</li>
-              </ul>
-            </div>
-          </BorderGlow>
-          <BorderGlow
-            glowColor="#00bcff"
-            glowSize={100}
-            duration={5}
-            borderRadius={16}
-          >
-            <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm h-full w-full">
-              <h3 className="text-xl font-bold text-[#00bcff] mb-4">
-                Languages
-              </h3>
-              <ul className="space-y-2 text-gray-300">
-                <li>• Indonesian (Native)</li>
-                <li>• Basic English (Professional Working)</li>
-              </ul>
-            </div>
-          </BorderGlow>
-        </div>
-      </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <BorderGlow
+              glowColor="#00bcff"
+              glowSize={100}
+              duration={5}
+              borderRadius={16}
+            >
+              <div className="flex flex-col gap-8">
+                <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm h-full w-full">
+                  <h3 className="text-xl font-bold text-[#00bcff] mb-4">
+                    Soft Skills
+                  </h3>
+                  <ul className="space-y-2 text-gray-300">
+                    <li>• Time Management</li>
+                    <li>• Teamwork & Collaboration</li>
+                    <li>• Thrives on Challenges</li>
+                    <li>• Fast Learner</li>
+                  </ul>
+                </div>
+              </div>
+            </BorderGlow>
 
-      <div className="w-full mb-10">
-        <h2 className="text-3xl md:text-4xl font-bold text-white mb-8 border-b-2 border-gray-800 pb-4">
-          Software & <span className="text-[#00bcff]">Tools</span>
-        </h2>
-        <div className="grid grid-cols-2 md:grid-cols-2 gap-8">
-          <div className="flex flex-col gap-8">
             <BorderGlow
               glowColor="#00bcff"
               glowSize={100}
@@ -271,28 +265,25 @@ export default function Background() {
               borderRadius={16}
             >
               <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm h-full w-full">
-                <h3 className="text-lg font-medium text-[#00bcff] mb-4">
-                  Operating System
+                <h3 className="text-xl font-bold text-[#00bcff] mb-4">
+                  Languages
                 </h3>
-                <div className="flex flex-wrap gap-4">
-                  <img
-                    src="contents/Backgrounds/win11.webp"
-                    className="h-12 bg-white/10 p-2 rounded-lg"
-                    alt="Windows"
-                  />
-                  <img
-                    src="contents/Backgrounds/Ubuntu.webp"
-                    className="h-12 bg-white/10 p-2 rounded-lg"
-                    alt="Ubuntu"
-                  />
-                  <img
-                    src="contents/Backgrounds/xubuntu.webp"
-                    className="h-12 bg-white/10 rounded-lg"
-                    alt="Xubuntu"
-                  />
-                </div>
+                <ul className="space-y-2 text-gray-300">
+                  <li>• Indonesian (Native)</li>
+                  <li>• Basic English (Professional Working)</li>
+                </ul>
               </div>
             </BorderGlow>
+          </div>
+        </div>
+      </div>
+
+      <div className="w-full mb-10">
+        <h2 className="text-3xl md:text-4xl font-bold text-white mb-8 border-b-2 border-gray-800 pb-4">
+          Software & <span className="text-[#00bcff]">Tools</span>
+        </h2>
+        <div className="grid grid-cols-1 md:grid-cols-1 gap-8">
+          <div className="flex flex-col gap-8">
             <BorderGlow
               glowColor="#00bcff"
               glowSize={100}
@@ -357,66 +348,95 @@ export default function Background() {
                 </div>
               </div>
             </BorderGlow>
-          </div>
-          <div className="flex flex-col gap-8">
-            <BorderGlow
-              glowColor="#00bcff"
-              glowSize={100}
-              duration={5}
-              borderRadius={16}
-            >
-              <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm h-full w-full">
-                <h3 className="text-lg font-medium text-[#00bcff] mb-4">
-                  Office
-                </h3>
-                <div className="flex flex-wrap gap-4">
-                  <img
-                    src="contents/Backgrounds/word.svg"
-                    className="h-12 bg-white/10 p-2 rounded-lg"
-                    alt="Word"
-                  />
-                  <img
-                    src="contents/Backgrounds/excel.svg"
-                    className="h-12 bg-white/10 p-2 rounded-lg"
-                    alt="Excel"
-                  />
-                  <img
-                    src="contents/Backgrounds/ppt.svg"
-                    className="h-12 bg-white/10 p-2 rounded-lg"
-                    alt="PowerPoint"
-                  />
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+              <BorderGlow
+                glowColor="#00bcff"
+                glowSize={100}
+                duration={5}
+                borderRadius={16}
+              >
+                <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm h-full w-full">
+                  <h3 className="text-lg font-medium text-[#00bcff] mb-4">
+                    Operating System
+                  </h3>
+                  <div className="flex flex-wrap gap-4">
+                    <img
+                      src="contents/Backgrounds/win11.webp"
+                      className="h-12 bg-white/10 p-2 rounded-lg"
+                      alt="Windows"
+                    />
+                    <img
+                      src="contents/Backgrounds/Ubuntu.webp"
+                      className="h-12 bg-white/10 p-2 rounded-lg"
+                      alt="Ubuntu"
+                    />
+                    <img
+                      src="contents/Backgrounds/xubuntu.webp"
+                      className="h-12 bg-white/10 rounded-lg"
+                      alt="Xubuntu"
+                    />
+                  </div>
                 </div>
-              </div>
-            </BorderGlow>
-            <BorderGlow
-              glowColor="#00bcff"
-              glowSize={100}
-              duration={5}
-              borderRadius={16}
-            >
-              <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm h-full w-full">
-                <h3 className="text-lg font-medium text-[#00bcff] mb-4">
-                  Design & Video
-                </h3>
-                <div className="flex flex-wrap gap-4">
-                  <img
-                    src="contents/Backgrounds/canva.png"
-                    className="h-12 bg-white/10 p-2 rounded-lg"
-                    alt="Canva"
-                  />
-                  <img
-                    src="contents/Backgrounds/capcut.webp"
-                    className="h-12 bg-white/10 p-2 rounded-lg"
-                    alt="Capcut"
-                  />
-                  <img
-                    src="contents/Backgrounds/figma.png"
-                    className="h-12 bg-white/10 p-2 rounded-lg"
-                    alt="Figma"
-                  />
-                </div>
-              </div>
-            </BorderGlow>
+              </BorderGlow>
+                <BorderGlow
+                  glowColor="#00bcff"
+                  glowSize={100}
+                  duration={5}
+                  borderRadius={16}
+                >
+                  <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm h-full w-full">
+                    <h3 className="text-lg font-medium text-[#00bcff] mb-4">
+                      Office
+                    </h3>
+                    <div className="flex flex-wrap gap-4">
+                      <img
+                        src="contents/Backgrounds/word.svg"
+                        className="h-12 bg-white/10 p-2 rounded-lg"
+                        alt="Word"
+                      />
+                      <img
+                        src="contents/Backgrounds/excel.svg"
+                        className="h-12 bg-white/10 p-2 rounded-lg"
+                        alt="Excel"
+                      />
+                      <img
+                        src="contents/Backgrounds/ppt.svg"
+                        className="h-12 bg-white/10 p-2 rounded-lg"
+                        alt="PowerPoint"
+                      />
+                    </div>
+                  </div>
+                </BorderGlow>
+                <BorderGlow
+                  glowColor="#00bcff"
+                  glowSize={100}
+                  duration={5}
+                  borderRadius={16}
+                >
+                  <div className="bg-gray-900/50 p-6 rounded-2xl backdrop-blur-sm h-full w-full">
+                    <h3 className="text-lg font-medium text-[#00bcff] mb-4">
+                      Design & Video
+                    </h3>
+                    <div className="flex flex-wrap gap-4">
+                      <img
+                        src="contents/Backgrounds/canva.png"
+                        className="h-12 bg-white/10 p-2 rounded-lg"
+                        alt="Canva"
+                      />
+                      <img
+                        src="contents/Backgrounds/capcut.webp"
+                        className="h-12 bg-white/10 p-2 rounded-lg"
+                        alt="Capcut"
+                      />
+                      <img
+                        src="contents/Backgrounds/figma.png"
+                        className="h-12 bg-white/10 p-2 rounded-lg"
+                        alt="Figma"
+                      />
+                    </div>
+                  </div>
+                </BorderGlow>
+            </div>
           </div>
         </div>
       </div>
