@@ -145,7 +145,7 @@ export default function Home({ setPreviewData }) {
               <br />
               <br />
               Beyond design and development, I am a highly technical IT
-              specialist and system tinkerer. As a freelance IT support,
+              specialist and system tinkerer. As a IT support,
               building PCs, troubleshooting Windows, and customizing Xubuntu
               environments are my daily routine. My curiosity also extends to
               advanced Android modding. I even developed my own root
